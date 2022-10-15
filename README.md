@@ -10,11 +10,19 @@ A2SV competitive programming problems solutions
 
 > Time Spent includes time to read a problem, problem solving, coding and testing :wink:.
 
+## Platform analytics
+| No. | Name | Easy | Medium | Hard | Total |
+| --- | ---- | ---- | ------ | ---- | ----- |
+| 1. | [Codeforces](https://codeforces.com/pofile/wende) | 1 | 0 | 0 | 1 |
+| 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
+| 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 4 | 0 | 0 | 4 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 4 | 4 | 0 | 8 |
+
 ## Problem Solved
 
 | No | Problem | Difficulty | Tags | Platform | Tries | Time Spent (Min) | Programming Language |
 | -- | ----- | ----| --------| ----- | ----- | ---------- | -------------------- |
-| 1. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | `Math` `String` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/fizz-buzz.py) | 0.2 | Python |
+| 1. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | `Math` `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/fizz-buzz.py) | 0.2 | Python |
 | 2. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)| Easy | `Math` `Implementation` | [HackerRank](https://www.hackerrank.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/grading.py) | 6 | Python |
 | 3. | [Domino piling](https://codeforces.com/problemset/problem/50/A) | Easy | `Math` | [Codeforces](https://codeforces.com/) | [#1](https://github.com/wendirad/competitive-programming/blob/main/week-one/domino-piling.py) | 10 | Python |
 | 4. | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | Easy | `Sorting` | [HackerRank](https://www.hackerrank.com)  | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/ctci-bubble-sort.cpp) | 5 | C++ |
