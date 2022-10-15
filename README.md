@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-9-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-10-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-44.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/8-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-10-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-11-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-46.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/9-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -23,3 +23,4 @@ A2SV competitive programming problems solutions
 | 7. | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | Easy | `Sorting` | [GeeksforGeeks](https://www.geeksforgeeks.org/) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/selection-sort.py) | 2 | Python |
 | 8. | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | Easy | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/sorting-the-sentence.py) | 3 | Python |
 | 9. | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/how-many-numbers-are-smaller-than-the-current-number.py) | 2 | Python |
+| 10. | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/find-target-indices-after-sorting-array.py) | 2 | Python |
