@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-11-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-12-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-51.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/10-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-12-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-13-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-53.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/11-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -25,3 +25,4 @@ A2SV competitive programming problems solutions
 | 9. | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/how-many-numbers-are-smaller-than-the-current-number.py) | 2 | Python |
 | 10. | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/find-target-indices-after-sorting-array.py) | 2 | Python |
 | 11. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/sort-colors.py) | 5 | Python |
+| 12. | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | `Sorting` | [LeetCode](https://leetcode.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/k-closest-points-to-origin.py) | 2 | Python |
