@@ -1,4 +1,9 @@
 # A2SV - Competitive Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem Solved-2-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-2-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-6.2 Min-blue?style=for-the-badge" />
+</p>
 A2SV competitive programming problems solutions
 
 
