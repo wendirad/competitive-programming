@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-5-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-5-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-32.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/4-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-6-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-7-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-37.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -19,3 +19,4 @@ A2SV competitive programming problems solutions
 | 3. | [Domino piling](https://codeforces.com/problemset/problem/50/A) | Easy | `Math` | [Codeforces](https://codeforces.com/) | [#1](https://github.com/wendirad/competitive-programming/blob/main/week-one/domino-piling.py) | 10 | Python |
 | 4. | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | Easy | `Sorting` | [HackerRank](https://www.hackerrank.com)  | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/ctci-bubble-sort.cpp) | 5 | C++ |
 | 5. | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | Easy | `Sorting` | [HackerRank](https://www.hackerrank.com) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/week-one/insertionsort1.py) | 11 | Python |
+| 6. | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | Easy | `Sorting` | [HackerRank](https://www.hackerrank.com) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/week-one/countingsort1.py) | 5 | Python |
