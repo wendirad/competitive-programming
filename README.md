@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-15-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-21-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-140.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/14-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-16-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-22-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-142.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/15-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 1 | 0 | 0 | 1 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 4 | 0 | 0 | 4 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 4 | 5 | 0 | 9 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 4 | 6 | 0 | 10 |
 
 ## Problem Solved
 
@@ -37,3 +37,4 @@ A2SV competitive programming problems solutions
 | 13. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/merge-intervals.py) | 8 | Python |
 | 14. | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#4**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/largest-number.py) | 57 | Python |
 | 15. | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/array-with-elements-not-equal-to-average-of-neighbors.py) | 22 | Python |
+| 16. | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/find-the-kth-largest-integer-in-the-array.py) | 2 | Python |
