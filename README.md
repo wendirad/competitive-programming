@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-25-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-35-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-336.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/24-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-26-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-36-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-362.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/25-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 5 | 12 | 0 | 17 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 5 | 13 | 0 | 18 |
 
 ## Problem Solved
 
@@ -47,3 +47,4 @@ A2SV competitive programming problems solutions
 | 23. | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/arithmetic-subarrays.py) | 6 | Python |
 | 24. | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/maximum-number-of-coins-you-can-get.py) | 9 | Python |
 | 25. | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/minimize-maximum-pair-sum-in-array.py) | 6 | Python |
+| 26. | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/pancake-sorting.py) | 26 | Python |
