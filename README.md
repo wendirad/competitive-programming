@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-28-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-38-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-368.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/27-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-29-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-39-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-370.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/28-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 5 | 15 | 0 | 20 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 6 | 15 | 0 | 21 |
 
 ## Problem Solved
 
@@ -50,3 +50,4 @@ A2SV competitive programming problems solutions
 | 26. | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/pancake-sorting.py) | 26 | Python |
 | 27. | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/reduce-array-size-to-the-half.py) | 4 | Python |
 | 28. | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/top-k-frequent-elements.py) | 2 | Python |
+| 29. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/valid-parentheses.py) | 2 | Python |
