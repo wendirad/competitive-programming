@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-21-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-29-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-274.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/20-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-22-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-32-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-316.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/21-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 5 | 8 | 0 | 13 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 5 | 9 | 0 | 14 |
 
 ## Problem Solved
 
@@ -43,3 +43,4 @@ A2SV competitive programming problems solutions
 | 19. | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | `Math` `Array` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/number-of-good-pairs.py) | 1 | Python |
 | 20. | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | `Implementation` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/hackerrank/easy/counting-valleys.py) | 12 | Python |
 | 21. | [Counting Valleys](https://codeforces.com/problemset/problem/1/A) | Easy | `Math` | [CodeForces](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/codeforces/easy/theatre-square.py) | 2 | Python |
+| 22. | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#3**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/max-number-of-k-sum-pairs.py) | 42 | Python |
