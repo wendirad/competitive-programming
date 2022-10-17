@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-32-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-44-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-397.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/31-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-33-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-45-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-402.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/32-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 17 | 0 | 24 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 18 | 0 | 25 |
 
 ## Problem Solved
 
@@ -54,3 +54,4 @@ A2SV competitive programming problems solutions
 | 30. | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/implement-queue-using-stacks.py) | 2 | Python |
 | 31. | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/evaluate-reverse-polish-notation.py) | 5 | Python |
 | 32. | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#3**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/min-stack.py) | 20 | Python |
+| 33. | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/reverse-substrings-between-each-pair-of-parentheses.py) | 5 | Python |
