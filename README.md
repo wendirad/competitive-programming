@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-30-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-40-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-372.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/29-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-31-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-41-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-377.2 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/30-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 15 | 0 | 22 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 16 | 0 | 23 |
 
 ## Problem Solved
 
@@ -52,3 +52,4 @@ A2SV competitive programming problems solutions
 | 28. | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | `Sorting` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/top-k-frequent-elements.py) | 2 | Python |
 | 29. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/valid-parentheses.py) | 2 | Python |
 | 30. | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/implement-queue-using-stacks.py) | 2 | Python |
+| 31. | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/evaluate-reverse-polish-notation.py) | 5 | Python |
