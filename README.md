@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-34-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-47-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-422.2 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/33-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-35-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-48-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-452 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/34-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,13 +16,13 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 19 | 0 | 26 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 20 | 0 | 27 |
 
 ## Problem Solved
 
 | No | Problem | Difficulty | Tags | Platform | Tries | Time Spent (Min) | Programming Language |
 | -- | ----- | ----| --------| ----- | ----- | ---------- | -------------------- |
-| 1. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | `Math` `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/fizz-buzz.py) | 0.2 | Python |
+| 1. | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | `Math` `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/fizz-buzz.py) | 2 | Python |
 | 2. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)| Easy | `Math` `Implementation` | [HackerRank](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/hackerrank/easy/grading.py) | 6 | Python |
 | 3. | [Domino piling](https://codeforces.com/problemset/problem/50/A) | Easy | `Math` | [Codeforces](#platform-analytics) | [#1](https://github.com/wendirad/competitive-programming/blob/main/codeforces/easy/domino-piling.py) | 10 | Python |
 | 4. | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | Easy | `Sorting` | [HackerRank](#platform-analytics)  | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/hackerrank/easy/ctci-bubble-sort.cpp) | 5 | C++ |
@@ -56,3 +56,4 @@ A2SV competitive programming problems solutions
 | 32. | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#3**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/min-stack.py) | 20 | Python |
 | 33. | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/reverse-substrings-between-each-pair-of-parentheses.py) | 5 | Python |
 | 34. | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/design-circular-deque.py) | 20 | Python |
+| 35. | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/task-scheduler.py) | 33 | Python |
