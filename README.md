@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-35-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-48-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-452 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/34-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-36-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-49-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-465 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/35-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 7 | 20 | 0 | 27 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 8 | 20 | 0 | 28 |
 
 ## Problem Solved
 
@@ -57,3 +57,4 @@ A2SV competitive programming problems solutions
 | 33. | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | `Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/reverse-substrings-between-each-pair-of-parentheses.py) | 5 | Python |
 | 34. | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/design-circular-deque.py) | 20 | Python |
 | 35. | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/task-scheduler.py) | 33 | Python |
+| 36. | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/next-greater-element-i.py) | 13 | Python |
