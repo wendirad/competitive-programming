@@ -1,9 +1,9 @@
 # A2SV - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-36-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-49-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-465 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/35-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-37-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-54-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-520 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/36-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 8 | 20 | 0 | 28 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 8 | 21 | 0 | 29 |
 
 ## Problem Solved
 
@@ -58,3 +58,4 @@ A2SV competitive programming problems solutions
 | 34. | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/design-circular-deque.py) | 20 | Python |
 | 35. | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | `Queue` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/task-scheduler.py) | 33 | Python |
 | 36. | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/next-greater-element-i.py) | 13 | Python |
+| 37. | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#5**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/daily-temperatures.py) | 55 | Python |
