@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-38-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-56-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-595 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/37-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-39-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-57-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-597 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/38-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 5 | 0 | 0 | 5 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 8 | 22 | 0 | 30 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 9 | 22 | 0 | 30 |
 
 ## Problem Solved
 
@@ -60,3 +60,4 @@ A2SV competitive programming problems solutions
 | 36. | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/next-greater-element-i.py) | 13 | Python |
 | 37. | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#5**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/daily-temperatures.py) | 55 | Python |
 | 38. | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | `Monotonic Stack` | [LeetCode](#platform-analytics) | [**#2**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/car-fleet.py) | 75 | Python |
+| 39. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/easy/valid-palindrome.py) | 2 | Python |
