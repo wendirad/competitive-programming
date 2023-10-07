@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-49-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-69-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-640 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/48-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-50-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-70-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-644 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/49-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -16,7 +16,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 2 | 0 | 0 | 2 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 9 | 0 | 0 | 9 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 12 | 25 | 0 | 37 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 12 | 26 | 0 | 38 |
 
 ## Problem Solved
 
@@ -71,3 +71,4 @@ A2SV competitive programming problems solutions
 | 47. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | `Math` | [LeetCode](#platform-analytics) | [**#3**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/reverse-integer.py) | 9 | Python |
 | 48. | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/multiply-strings.py) | 9 | Python |
 | 49. | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium | `Hash Table` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/find-duplicate-file-in-system.py) | 6 | Python |
+| 50. | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | Medium | `String` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/adding-spaces-to-a-string.py) | 4 | Python |
