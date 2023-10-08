@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-54-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-78-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-690 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/54-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-55-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-80-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-702 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/55-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/1-teal?style=for-the-badge&logo=cplusplus" />
 </p>
 A2SV competitive programming problems solutions
@@ -13,7 +13,7 @@ A2SV competitive programming problems solutions
 ## Platform analytics
 | No. | Name | Easy | Medium | Hard | Total |
 | --- | ---- | ---- | ------ | ---- | ----- |
-| 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 1 | 0 | 4 |
+| 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 10 | 0 | 0 | 10 |
 | 4. | [LeetCode](https://leetcode.com/Wendirad) | 12 | 28 | 0 | 40 |
@@ -76,4 +76,5 @@ A2SV competitive programming problems solutions
 | 52. | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | Medium | `Hash Table` | [LeetCode](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/leetcode/medium/replace-elements-in-an-array.py) | 4 | Python |
 | 53. | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)| Easy | `Sorting` | [HackerRank](#platform-analytics) | [**#1**](https://github.com/wendirad/competitive-programming/blob/main/hackerrank/easy/ctci-bubble-sort.py) | 5 | Python |
 | 54. | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | Easy | `Sorting` | [Codeforces](#platform-analytics) | [#1](https://github.com/wendirad/competitive-programming/blob/main/codeforces/easy/remove-smallest.py) | 7 | Python |
-| 55. | [Less or Equal](https://codeforces.com/problemset/problem/977/C) | Medium | `Sorting` | [Codeforces](#platform-analytics) | [#1](https://github.com/wendirad/competitive-programming/blob/main/codeforces/medium/less_or_equal.py) | 16 | Python |
+| 55. | [Less or Equal](https://codeforces.com/problemset/problem/977/C) | Medium | `Sorting` | [Codeforces](#platform-analytics) | [#3](https://github.com/wendirad/competitive-programming/blob/main/codeforces/medium/less_or_equal.py) | 16 | Python |
+| 56. | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | Medium | `Sorting` | [Codeforces](#platform-analytics) | [#2](https://github.com/wendirad/competitive-programming/blob/main/codeforces/medium/ehab_is_an_odd_person.py) | 12 | Python |
