@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-55-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-79-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-697 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/55-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-56-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-80-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-698 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/56-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -14,7 +14,7 @@ A2SV competitive programming problems solutions
 | --- | ---- | ---- | ------ | ---- | ----- |
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
-| 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 9 | 0 | 0 | 9 |
+| 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 10 | 0 | 0 | 10 |
 | 4. | [LeetCode](https://leetcode.com/Wendirad) | 12 | 28 | 0 | 40 |
 
 ## Problem Solved
@@ -76,3 +76,4 @@ A2SV competitive programming problems solutions
 | 53. | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | Easy | `Sorting` | [Codeforces](#platform-analytics) | [#1](codeforces/easy/remove-smallest.py) | 7 | Python |
 | 54. | [Less or Equal](https://codeforces.com/problemset/problem/977/C) | Medium | `Sorting` | [Codeforces](#platform-analytics) | [#3](codeforces/medium/less_or_equal.py) | 16 | Python |
 | 55. | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | Medium | `Sorting` | [Codeforces](#platform-analytics) | [#2](codeforces/medium/ehab_is_an_odd_person.py) | 12 | Python |
+| 56. | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)| Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-arithmetic-operators.py) | 1 | Python |
