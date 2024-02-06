@@ -9,11 +9,11 @@ for test in range(t):
         continue
 
     nums.sort()
-    
+
     i = 1
     f = True
     while i < n:
-        if abs(nums[i-1] - nums[i]) > 1:
+        if abs(nums[i - 1] - nums[i]) > 1:
             print("NO")
             f = False
             break

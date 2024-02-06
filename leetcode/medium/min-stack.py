@@ -1,18 +1,17 @@
 import sys
 
-class MinStack:
 
+class MinStack:
     def __init__(self):
         self.st = []
         self.MIN = []
         self.LM = sys.maxsize
-        
 
     def push(self, val: int) -> None:
         self.st.append(val)
         self.LM = min(self.LM, val)
         self.MIN.append(self.LM)
-        
+
     def pop(self) -> None:
         self.st.pop()
         self.MIN.pop()
@@ -26,4 +25,3 @@ class MinStack:
 
     def getMin(self) -> int:
         return self.MIN[-1]
-

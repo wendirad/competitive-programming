@@ -11,7 +11,7 @@ class Solution:
             if n != len(dup):
                 return False
         return True
-    
+
     def validateCells(self, board):
         for i in range(0, 9, 3):
             for j in range(0, 9, 3):
@@ -26,9 +26,9 @@ class Solution:
 
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         if (
-            self.validateRow(board) and
-            self.validateRow(zip(*board)) and
-            self.validateCells(board)
+            self.validateRow(board)
+            and self.validateRow(zip(*board))
+            and self.validateCells(board)
         ):
             return True
         return False

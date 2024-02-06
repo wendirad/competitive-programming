@@ -1,12 +1,12 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        max_area = float('-inf')
+        max_area = float("-inf")
         stack = []
 
         n = len(heights)
-        
+
         stack.append((heights[0], 0))
-        
+
         for i in range(n):
             if len(stack) == 0:
                 stack.append((heights[0], 0))
@@ -23,5 +23,5 @@ class Solution:
             h, w = stack.pop()
             area = h * (n - w)
             max_area = max(max_area, area)
-        
+
         return max_area

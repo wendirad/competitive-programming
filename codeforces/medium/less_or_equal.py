@@ -13,7 +13,7 @@ if k < 1:
 elif k == n:
     print(nums[-1])
 else:
-    el = nums[k-1]
+    el = nums[k - 1]
     if nums[k] == el:
         print(-1)
     else:

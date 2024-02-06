@@ -1,5 +1,4 @@
 class MyHashMap:
-
     def __init__(self):
         self.keys = []
         self.values = []
@@ -9,7 +8,7 @@ class MyHashMap:
             if val == key:
                 self.values[idx] = value
                 return
-            
+
         self.keys.append(key)
         self.values.append(value)
 
@@ -24,7 +23,6 @@ class MyHashMap:
             if val == key:
                 self.keys.pop(idx)
                 self.values.pop(idx)
-        
 
 
 # Your MyHashMap object will be instantiated and called as such:

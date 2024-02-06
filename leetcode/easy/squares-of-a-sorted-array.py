@@ -3,4 +3,3 @@ class Solution:
         nums = list(map(lambda x: x**2, nums))
         nums.sort()
         return nums
-        

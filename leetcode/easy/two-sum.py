@@ -8,5 +8,5 @@ class Solution:
             diff = target - element
             if diff in sums:
                 return [sums[diff], i]
-            
+
             sums[element] = i

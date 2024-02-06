@@ -4,9 +4,9 @@ class Solution:
 
         SUM = 0
         for i in range(n):
-            SUM += (mat[i][0 + i] + mat[i][n - i - 1])
-        
+            SUM += mat[i][0 + i] + mat[i][n - i - 1]
+
         if n % 2 == 1:
-            SUM -= mat[n//2][n//2]
-        
+            SUM -= mat[n // 2][n // 2]
+
         return SUM

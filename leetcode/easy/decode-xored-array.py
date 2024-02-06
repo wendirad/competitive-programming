@@ -3,5 +3,5 @@ class Solution:
         orginal = [first]
         for enc in encoded:
             orginal.append(orginal[-1] ^ enc)
-        
+
         return orginal

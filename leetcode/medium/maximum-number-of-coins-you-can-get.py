@@ -4,4 +4,3 @@ class Solution:
         piles.sort(reverse=True)
         piles = piles[:-n]
         return sum(piles[::-2])
-        

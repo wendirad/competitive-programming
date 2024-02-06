@@ -11,5 +11,5 @@ class Solution:
             vals.append(head)
             head = head.next
             length += 1
-        middle = length // 2 
+        middle = length // 2
         return vals[middle]

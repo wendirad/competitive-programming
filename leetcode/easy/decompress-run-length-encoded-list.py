@@ -3,6 +3,6 @@ class Solution:
         n = len(nums)
         ans = []
         for i in range(0, n, 2):
-            ans.extend([nums[i+1]] * nums[i])
-        
+            ans.extend([nums[i + 1]] * nums[i])
+
         return ans

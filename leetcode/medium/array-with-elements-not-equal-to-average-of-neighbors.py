@@ -1,5 +1,6 @@
 import statistics as sts
 
+
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
         n = [0] * len(nums)
@@ -14,4 +15,3 @@ class Solution:
                 n[evinx] = i
                 evinx += 2
         return n
-        

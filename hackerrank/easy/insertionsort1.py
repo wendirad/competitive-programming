@@ -14,6 +14,7 @@ import sys
 #  2. INTEGER_ARRAY arr
 #
 
+
 def insertionSort1(n, arr):
     last_element = arr[-1]
     for i in range(n):
@@ -23,11 +24,9 @@ def insertionSort1(n, arr):
             break
         arr[-(i + 1)] = arr[-(i + 2)]
         print(*arr)
-            
-            
-        
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     n = int(input().strip())
 
     arr = list(map(int, input().rstrip().split()))

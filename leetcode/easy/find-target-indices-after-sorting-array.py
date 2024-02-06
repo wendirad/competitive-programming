@@ -6,4 +6,3 @@ class Solution:
             if i == target:
                 inx.append(idx)
         return inx
-                

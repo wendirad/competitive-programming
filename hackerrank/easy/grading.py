@@ -13,6 +13,7 @@ import sys
 # The function accepts INTEGER_ARRAY grades as parameter.
 #
 
+
 def gradingStudents(grades):
     rounded = []
     for grade in grades:
@@ -21,9 +22,10 @@ def gradingStudents(grades):
         else:
             rounded.append(grade)
     return rounded
-    
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+
+if __name__ == "__main__":
+    fptr = open(os.environ["OUTPUT_PATH"], "w")
 
     grades_count = int(input().strip())
 
@@ -35,7 +37,7 @@ if __name__ == '__main__':
 
     result = gradingStudents(grades)
 
-    fptr.write('\n'.join(map(str, result)))
-    fptr.write('\n')
+    fptr.write("\n".join(map(str, result)))
+    fptr.write("\n")
 
     fptr.close()

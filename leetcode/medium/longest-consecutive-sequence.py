@@ -8,9 +8,9 @@ class Solution:
         mx = 1
         cur = 1
         for i in range(1, n):
-            if nums[i] == nums[i-1]:
+            if nums[i] == nums[i - 1]:
                 continue
-            if nums[i] - 1 == nums[i-1]:
+            if nums[i] - 1 == nums[i - 1]:
                 cur += 1
             else:
                 mx = max(mx, cur)

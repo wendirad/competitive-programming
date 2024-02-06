@@ -7,9 +7,8 @@ class Solution:
         # for i in range(n//2):
         #     if toString[i] != toString[-1 - i]:
         #         return False
-        
-        # return True
 
+        # return True
 
         if str(x) == str(x)[::-1]:
             return True

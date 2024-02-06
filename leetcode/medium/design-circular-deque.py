@@ -1,22 +1,21 @@
 from queue import deque
 
-class MyCircularDeque:
 
+class MyCircularDeque:
     def __init__(self, k: int):
         self.q = deque([], k)
         self.k = k
         self.added = 0
-        
+
     def inc(self):
         self.added += 1
         if self.added > self.k:
             self.added -= 1
             return False
         return True
-    
 
     def insertFront(self, value: int) -> bool:
-        pos =  self.inc()
+        pos = self.inc()
         if pos:
             self.q.appendleft(value)
         return pos
@@ -34,14 +33,13 @@ class MyCircularDeque:
             return False
         self.q.popleft()
         return True
-        
 
     def deleteLast(self) -> bool:
         self.added -= 1
         if self.added < 0:
             self.added += 1
             return False
-        
+
         self.q.pop()
         return True
 
@@ -49,7 +47,6 @@ class MyCircularDeque:
         if self.isEmpty():
             return -1
         return self.q[0]
-        
 
     def getRear(self) -> int:
         if self.isEmpty():
@@ -58,11 +55,9 @@ class MyCircularDeque:
 
     def isEmpty(self) -> bool:
         return self.added == 0
-        
 
     def isFull(self) -> bool:
         return self.added >= self.k
-        
 
 
 # Your MyCircularDeque object will be instantiated and called as such:

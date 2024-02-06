@@ -1,4 +1,6 @@
 from collections import Counter
+
+
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         srtd = Counter(allowed)
@@ -8,6 +10,5 @@ class Solution:
                 if not srtd[char]:
                     count += 1
                     break
-            
-        return len(words) - count
 
+        return len(words) - count

@@ -10,5 +10,5 @@ class Solution:
                 ans += " "
                 ix += 1
             ans += s[i]
-        
+
         return ans

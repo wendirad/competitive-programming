@@ -7,9 +7,7 @@ class Solution:
         ans = []
         for num in nums:
             rightSum -= num
-            ans.append(
-                abs(leftSum - rightSum)
-            )
+            ans.append(abs(leftSum - rightSum))
             leftSum += num
-        
+
         return ans

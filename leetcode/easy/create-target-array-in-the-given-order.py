@@ -5,5 +5,5 @@ class Solution:
 
         for i in range(n):
             target.insert(index[i], nums[i])
-        
+
         return target

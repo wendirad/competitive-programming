@@ -13,7 +13,7 @@ class Solution:
                 total /= 2
             else:
                 total = total // 2 + 1
-            
+
             res += arr[i] * total
-        
+
         return int(res)

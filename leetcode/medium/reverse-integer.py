@@ -6,15 +6,15 @@ class Solution:
             neg = True
         else:
             neg = False
-        
+
         x = abs(x)
 
         while x != 0:
             r = x % 10
             x = int(x / 10)
-            n = n*10 + r
+            n = n * 10 + r
             i += 1
-        
+
         if abs(n) > (2**31 - 1):
             return 0
 

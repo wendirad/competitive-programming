@@ -3,5 +3,5 @@ class Solution:
         ans = []
         for i in range(n):
             ans += [nums[i], nums[n + i]]
-        
+
         return ans

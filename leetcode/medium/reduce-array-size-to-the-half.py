@@ -1,4 +1,6 @@
 from collections import Counter
+
+
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:
         freq = Counter(arr)
@@ -9,6 +11,5 @@ class Solution:
         while cur > n / 2:
             cur -= srt.pop()[1]
             ans += 1
-        
+
         return ans
-            
