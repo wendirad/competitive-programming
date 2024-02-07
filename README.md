@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-58-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-82-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-700 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/58-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-59-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-83-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-703 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/59-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -15,7 +15,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 11 | 0 | 0 | 11 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 13 | 28 | 0 | 41 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 13 | 29 | 0 | 42 |
 
 ## Problem Solved
 
@@ -79,3 +79,4 @@ A2SV competitive programming problems solutions
 | 56. | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)| Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-arithmetic-operators.py) | 1 | Python |
 | 57. | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)| Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-division.py) | 1 | Python |
 | 58. | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/convert-the-temperature.py) | 1 | Python |
+| 59. | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/medium/find-three-consecutive-integers-that-sum-to-a-given-number.py) | 4 | Python |
