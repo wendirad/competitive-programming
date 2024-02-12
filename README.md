@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-63-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-87-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-709 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/63-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-64-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-88-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-710 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/64-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -14,7 +14,7 @@ A2SV competitive programming problems solutions
 | --- | ---- | ---- | ------ | ---- | ----- |
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
-| 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 13 | 0 | 0 | 13 |
+| 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 14 | 0 | 0 | 14 |
 | 4. | [LeetCode](https://leetcode.com/Wendirad) | 15 | 29 | 0 | 44 |
 
 ## Problem Solved
@@ -84,3 +84,4 @@ A2SV competitive programming problems solutions
 | 61. | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy | `String` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-string-split-and-join.py) | 1 | Python |
 | 62. | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | `String` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/whats-your-name.py) | 1 | Python |
 | 63. | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/smallest-even-multiple.py) | 1 | Python |
+| 64. | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/py-if-else.py) | 1 | Python |
