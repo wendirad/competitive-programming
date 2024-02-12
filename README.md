@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-62-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-86-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-708 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/62-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-63-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-87-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-709 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/63-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -15,7 +15,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 13 | 0 | 0 | 13 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 14 | 29 | 0 | 43 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 15 | 29 | 0 | 44 |
 
 ## Problem Solved
 
@@ -83,3 +83,4 @@ A2SV competitive programming problems solutions
 | 60. | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | `Implementation` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/max-consecutive-ones.py) | 3 | Python |
 | 61. | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy | `String` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-string-split-and-join.py) | 1 | Python |
 | 62. | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | `String` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/whats-your-name.py) | 1 | Python |
+| 63. | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/smallest-even-multiple.py) | 1 | Python |
