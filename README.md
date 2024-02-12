@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-68-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-92-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-721 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/68-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-69-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-93-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-723 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/69-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -89,3 +89,4 @@ A2SV competitive programming problems solutions
 | 66. | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-power-mod-power.py) | 1 | Python |
 | 67. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | `String` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/longest-common-prefix.py) | 7 | Python |
 | 68. | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | `String` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/merge-strings-alternately.py) | 2 | Python |
+| 69. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | `String` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/defanging-an-ip-address.py) | 1 | Python |
