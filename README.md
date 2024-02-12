@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-66-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-90-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-712 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/66-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-67-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-91-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-719 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/67-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -15,7 +15,7 @@ A2SV competitive programming problems solutions
 | 1. | [Codeforces](https://codeforces.com/pofile/wende) | 3 | 2 | 0 | 5 |
 | 2. | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/wendiradame/) | 1 | 0 | 0 | 1 |
 | 3. | [HackerRank](https://www.hackerrank.com/Wendirad) | 16 | 0 | 0 | 16 |
-| 4. | [LeetCode](https://leetcode.com/Wendirad) | 15 | 29 | 0 | 44 |
+| 4. | [LeetCode](https://leetcode.com/Wendirad) | 16 | 29 | 0 | 45 |
 
 ## Problem Solved
 
@@ -87,3 +87,4 @@ A2SV competitive programming problems solutions
 | 64. | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/py-if-else.py) | 1 | Python |
 | 65. | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-loops.py) | 1 | Python |
 | 66. | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | Easy | `Math` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-power-mod-power.py) | 1 | Python |
+| 67. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | `Implementation` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/longest-common-prefix.py) | 7 | Python |
