@@ -1,9 +1,9 @@
 # [A2SV](https://a2sv.org) - Competitive Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem Solved-60-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Tries-84-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Time%20Spent-706 Min-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/60-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Problem Solved-61-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Tries-85-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Time%20Spent-707 Min-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/61-yellow?style=for-the-badge&logo=python" />
 </p>
 A2SV competitive programming problems solutions
 
@@ -81,3 +81,4 @@ A2SV competitive programming problems solutions
 | 58. | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/convert-the-temperature.py) | 1 | Python |
 | 59. | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium | `Math` | [LeetCode](#platform-analytics) | [**#1**](leetcode/medium/find-three-consecutive-integers-that-sum-to-a-given-number.py) | 4 | Python |
 | 60. | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | `Implementation` | [LeetCode](#platform-analytics) | [**#1**](leetcode/easy/max-consecutive-ones.py) | 3 | Python |
+| 61. | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy | `String` | [HackerRank](#platform-analytics) | [**#1**](hackerrank/easy/python-string-split-and-join.py) | 1 | Python |
